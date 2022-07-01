@@ -1,2 +1,7 @@
 hi
+<<<<<<< HEAD
 fetch will do 2 things
+=======
+Hello 
+This is an session about git fetch
+>>>>>>> 34dc852c78e195ed5abcb2ce06af6d54f391ef09
