@@ -1,1 +1,2 @@
 hi
+fetch will do 2 things
