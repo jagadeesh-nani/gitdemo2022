@@ -1,9 +1,9 @@
 hi
 fetch will do 2 things
-<<<<<<< HEAD
 fetch
 merge
-=======
 Hello 
 This is an session about git fetch
->>>>>>> refs/remotes/origin/main
+for Undoing the changes form local
+Reset and revert
+Branching for pull request
