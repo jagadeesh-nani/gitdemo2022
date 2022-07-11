@@ -1,5 +1,9 @@
 Hi world
 Hello World
 World war -1
+<<<<<<< HEAD
 World war-2
 third war of world
+=======
+World war-2
+>>>>>>> task-2
